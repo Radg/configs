@@ -104,3 +104,5 @@ alias kf="killall Finder"
 alias la="ls -la"
 alias zshrc="vim ~/.zshrc"
 alias editssh="vim ~/.ssh/config"
+alias myip="dig +short myip.opendns.com @resolver1.opendns.com."
+
