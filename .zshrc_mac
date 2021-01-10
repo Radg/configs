@@ -111,4 +111,4 @@ alias editssh="vim ~/.ssh/config"
 alias myip="dig +short myip.opendns.com @resolver1.opendns.com."
 alias d="docker"
 alias d-c="docker-compose"
-
+alias rsy="rsync -atrv --info=progress2"
